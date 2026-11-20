@@ -37,18 +37,17 @@ An end-to-end exploratory data analysis (EDA) and interactive business intellige
 ---
 
 ## 🚀 How to Run & View
+
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Anshulworld/Axonaspire_Metrics_Data_Analyst_Trainee_Program_Project_1_eCommerce_Sales_Analysis.git](https://github.com/Anshulworld/Axonaspire_Metrics_Data_Analyst_Trainee_Program_Project_1_eCommerce_Sales_Analysis.git)
 
-```
 
 2. **Explore the Notebook:**
 Open `Project_1_Superstore_Retail_Analysis.ipynb` in Jupyter Notebook or VS Code to inspect the data cleaning workflow and visual code.
 3. **Launch the Interactive Dashboard:**
 Download `Project_1_Interactive_Sales_Dashboard.html` and open it directly in any web browser (Chrome, Edge, Firefox) — no local server required.
 
----
 
 ## 📊 Key Analytical Outputs
 
@@ -57,7 +56,6 @@ Download `Project_1_Interactive_Sales_Dashboard.html` and open it directly in an
 * **Top Product Drivers:** Isolates the 10 items driving the highest revenue (`3_top_10_products_table.csv`).
 * **Customer Spend Behavior:** Evaluates purchasing distribution and high-value order patterns (`4_customer_spend_scatter_plot.png`).
 
----
 
 ## 👤 Author
 
@@ -65,11 +63,6 @@ Download `Project_1_Interactive_Sales_Dashboard.html` and open it directly in an
 
 * GitHub: [@Anshulworld](https://github.com/Anshulworld)
 
-```
 
-<ElicitationsGroup message="To polish the repository even further:">
-  <Elicitation label="Write a concise GitHub About description and topic tags" query="Write a short 1-sentence GitHub repository About description and relevant topic tags for this eCommerce Sales Analysis project."/>
-  <Elicitation label="Add a Key Business Insights section if you share your findings" query="Help me add a Key Business Insights and Recommendations section to this README once I share the numbers from my notebook."/>
-</ElicitationsGroup>
 
 ```
