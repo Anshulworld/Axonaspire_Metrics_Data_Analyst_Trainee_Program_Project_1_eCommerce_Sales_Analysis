@@ -39,13 +39,12 @@ An end-to-end exploratory data analysis (EDA) and interactive business intellige
 ## 🚀 How to Run & View
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Anshulworld/Axonaspire_Metrics_Data_Analyst_Trainee_Program_Project_1_eCommerce_Sales_Analysis.git](https://github.com/Anshulworld/Axonaspire_Metrics_Data_Analyst_Trainee_Program_Project_1_eCommerce_Sales_Analysis.git)
+git clone [https://github.com/Anshulworld/Axonaspire_Metrics_Data_Analyst_Trainee_Program_Project_1_eCommerce_Sales_Analysis.git](https://github.com/Anshulworld/Axonaspire_Metrics_Data_Analyst_Trainee_Program_Project_1_eCommerce_Sales_Analysis.git)
 
 
-2. **Explore the Notebook:**
+3. **Explore the Notebook:**
 Open `Project_1_Superstore_Retail_Analysis.ipynb` in Jupyter Notebook or VS Code to inspect the data cleaning workflow and visual code.
-3. **Launch the Interactive Dashboard:**
+4. **Launch the Interactive Dashboard:**
 Download `Project_1_Interactive_Sales_Dashboard.html` and open it directly in any web browser (Chrome, Edge, Firefox) — no local server required.
 
 
@@ -62,7 +61,3 @@ Download `Project_1_Interactive_Sales_Dashboard.html` and open it directly in an
 **Anshul Kumar Singh**
 
 * GitHub: [@Anshulworld](https://github.com/Anshulworld)
-
-
-
-```
